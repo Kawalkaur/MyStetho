@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MyStetho.ai</string>
+    <string name="proceed">Proceed to Use</string>
+    <string name="description">Overall structure of the assisted diagnosis</string>
+    <string name="text1">This Artificial Intelligence (AI) based program assists you in estimating if your paediatric patient needs immediate pneumonia care. The program uses only the auscultation sounds from the patient’s chest and basic observations. Thus, avoiding unnecessary X-ray imaging of the child. </string>
+    <string name="text2">The Technology</string>
+    <string name="text2a">Paediatric Pneumonia is one of the most common cause of post-neonatal child mortality in India.  It is prevalent in the poor and deprived sections of our society and it happens to be important contributor to poor infant mortality rate (IMR) and thereby India’s ranking in the Global Health Index
+In this regard, CDAC Mohali with support from the ministry of electronics and IT (MeitY) and guidance of senior paediatrics specialists from Government Medical College and Hospital and Post Graduate Institute of Medical Education &amp; Research (PGI), Chandigarh has successfully developed an AI based multi-modal data analytics framework for estimation of paediatric pneumonia. The overall structure of the system is shown below.
+</string>
+
+    <string name="text3">The AI framework is basically a hybrid multi-stage framework. The workhorse in the framework is a DL based model, trained using auscultation data of over 10,000 audio files collected form GMCH, Chandigarh over a period of 2 years.
+To use the program one can upload auscultation files (lung sounds acquired with electronic stethoscope) and simple observations (fever, breathing rate, chest in-drawing and body coloration only). You can thus avoid unnecessary x-ray of the child.
+</string>
+    <string name="credits">Credits</string>
+    <string name="guidance">Guidance:</string>
+    <string name="specialist">Medical Specialists:</string>
+    <string name="funding">Funding support</string>
+    <string name="contact">Contact Us</string>
+    <string name="contact_us">Centre for Development of Advanced Computing \n
+        Computing in medicine and Biology division, \n
+A-34, Phase-VIII, Industrial Area Mohali - 160071 \n
+(Near Chandigarh)Punjab, (India) \n
+Phone: +91-172-2237052-55, 6619000 \n
+Email: jaspal@cdac.in \n
+Fax: +91-172-2237050-51
+</string>
+    <string name="dash">---------------------------------</string>
+    <!-- AI_Engine Activity   -->
+    <string name="AI_Heading">Welcome to the AI engine for detection of paediatric pneumonia: </string>
+    <string name="need">You need<br />
+1.	Patient auscultation files (.wav sound files recorded with an electronic stethoscope from patient chest as indicated in diagram:<br />
+2.	Patient information : Fever (type and duration); Cough ; Chest in-drawing; Breathing ;
+</string>
+    <string name="enterData">Enter Details</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="fever">Fever (Grade and Duration)</string>
+    <string name="grade">Grade and Duration</string>
+    <string name="cough">Cough</string>
+    <string name="chest">Chest in-drawing</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="breathing">Breathing</string>
+    <string name="fast">Fast</string>
+    <string name="normal">Normal</string>
+    <string name="irregular">Irregular</string>
+    <string name="upload">Upload folder with chest auscultation files:</string>
+    <string name="submitAI">Login</string>
+</resources>
